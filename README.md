@@ -1,7 +1,4 @@
 
-Frontend Deployment - https://finance-tracker-olive-ten.vercel.app/
-Backend Deployment - https://finance-tracker-production-f9a1.up.railway.app/
-
 # 💰 Personal Finance Tracker
 
 A full-stack web application that helps users track their income and expenses, visualize financial trends with charts, and manage budgets—all in a secure, mobile-friendly interface.
@@ -61,15 +58,9 @@ A full-stack web application that helps users track their income and expenses, v
 
 ---
 
-## 📸 Screenshots
+🧑‍💻 Author
+Pari Ranasaria
+📧 pari.ranasaria@gmail.com
+🔗 LinkedIn (https://www.linkedin.com/in/pari-ranasaria-96049425a/)
 
-> _Add some screenshots or a demo GIF of your dashboard, mobile responsiveness, and charts here to showcase the UI/UX._
 
----
-
-## 🚀 Getting Started (Local Setup)
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/personal-finance-tracker.git
-   cd personal-finance-tracker
