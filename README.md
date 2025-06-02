@@ -59,8 +59,11 @@ A full-stack web application that helps users track their income and expenses, v
 ---
 
 🧑‍💻 Author
+
 Pari Ranasaria
+
 📧 pari.ranasaria@gmail.com
+
 🔗 LinkedIn (https://www.linkedin.com/in/pari-ranasaria-96049425a/)
 
 
